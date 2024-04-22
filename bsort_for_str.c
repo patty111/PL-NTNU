@@ -13,7 +13,6 @@ void bsort(char w[][101], int n){
                 strcpy(tmp,w[j]);
                 strcpy(w[j],w[j+1]);
                 strcpy(w[j+1],tmp);
-
             }
         }
     }
