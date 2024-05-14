@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <assert.h>
-
 typedef struct Node {
     struct Node* right;
     struct Node* left;
