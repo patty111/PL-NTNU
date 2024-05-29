@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include "my_libs/include/print_binary.h"
 
 int main(){
     unsigned int num;
